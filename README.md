@@ -1,4 +1,4 @@
-﻿[![License https://github.com/solegalli/https://github.com/solegalli/machine-learning-with-imbalanced-data-book/blob/main/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/machine-learning-with-imbalanced-data-book/blob/main/LICENSE)
+﻿[![License https://github.com/solegalli/imbalanced-data-myths-mistakes-solutions/blob/main/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/imbalanced-data-myths-mistakes-solutions/blob/main/LICENSE)
 [![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
 
 ## Imbalanced Data: Myths, Mistakes and Modern Solutions - Code Repository
