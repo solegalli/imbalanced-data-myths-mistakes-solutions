@@ -5,7 +5,7 @@
 
 - Published: June, 2026
 
-[<img src="./MOCKUP_BOOK.png" width="248">](https://www.trainindata.com/p/imbalanced-data-myths-mistakes-solutions-book)
+[<img src="./MOCKUP_BOOK.jpg" width="248">](https://www.trainindata.com/p/imbalanced-data-myths-mistakes-solutions-book)
 
 ## Links
 
