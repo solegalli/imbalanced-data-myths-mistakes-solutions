@@ -10,3 +10,8 @@
 # datasets
 *.csv
 *.zip
+/.quarto/
+**/*.quarto_ipynb
+
+# Misc
+.idea
