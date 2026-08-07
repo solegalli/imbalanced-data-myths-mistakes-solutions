@@ -3,7 +3,7 @@
 
 ## Imbalanced Data: Myths, Mistakes and Modern Solutions - Code Repository
 
-- Published: June, 2026
+- Published: August, 2026
 
 [<img src="./MOCKUP_BOOK.jpg" width="248">](https://www.trainindata.com/p/imbalanced-data-myths-mistakes-solutions-book)
 
